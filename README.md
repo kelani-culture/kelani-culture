@@ -13,8 +13,9 @@ I'm Darasimi! 👋<br><br>🚀 Backend Engineer | Python Enthusiast | FastAPI Af
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelani-culture&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=null&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
