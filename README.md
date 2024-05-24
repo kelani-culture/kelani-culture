@@ -1,7 +1,6 @@
-
-<img src="https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=FF6263&size=32&center=true&vCenter=true&width=800&height=50&lines=Backend+developer;" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com/?size=20&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=FF6263&size=32&center=true&vCenter=true&width=800&height=50&lines=Backend+developer;Comic+reader;Gamer;" width="100%">
 <h1 align="center"> Hi 👋, I'm  Darasimi </h1>
-<h5 align="center">A passionate Backend Engineer with a deep love for crafting robust, scalable, and efficient server-side applications</h5>
+<h6 align="center">A passionate Backend Engineer with a deep love for crafting robust, scalable, and efficient server-side applications</h6>
 
 - 🌱 I’m currently fast-api, django-restframework, docker, nginx,
 
@@ -31,7 +30,3 @@
  <img src="https://github-readme-stats.vercel.app/api?username=kelani-culture&theme=merko&show_icons=true&locale=en" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kelani-culture&theme=merko&show_icons=true&locale=en&layout=compact"/> 
 </p>
-
-### Support: 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]() 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)]()
